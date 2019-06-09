@@ -1,0 +1,14 @@
+memo.txt
+*.DS_Store
+*.zip
+*.gz
+*.csv
+*.pkl
+*.npy
+*.model
+input/
+temp/
+notebook/.ipynb_checkpoints
+script/__pycache__/*
+script/log/*
+.vscode/*
