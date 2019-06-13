@@ -7,8 +7,11 @@ memo.txt
 *.npy
 *.model
 input/
+data/
 temp/
-notebook/.ipynb_checkpoints
+.ipynb_checkpoints
 script/__pycache__/*
 script/log/*
 .vscode/*
+nohup.out
+kernel-metadata.json
