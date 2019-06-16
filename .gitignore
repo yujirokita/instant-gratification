@@ -6,6 +6,7 @@ memo.txt
 *.pkl
 *.npy
 *.model
+*.json
 input/
 data/
 temp/
@@ -14,4 +15,3 @@ script/__pycache__/*
 script/log/*
 .vscode/*
 nohup.out
-kernel-metadata.json

@@ -29,4 +29,4 @@ with open('kernel-metadata.json', 'w') as fp:
     json.dump(metadata, fp)
 
 command = 'kaggle kernels push'
-#os.system(command)
+os.system(command)
