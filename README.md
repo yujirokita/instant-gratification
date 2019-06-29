@@ -1,5 +1,5 @@
 # Instant Gratification
-This is the xth place solution.
+The 58th place solution.
 
 ## Push/Commit via API
 To push and commit a kernel, execute a command below in `script` ([Kaggle API](https://github.com/Kaggle/kaggle-api) is required).
